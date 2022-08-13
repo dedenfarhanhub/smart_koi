@@ -170,7 +170,7 @@ class _KalkulatorScreenState extends State<KalkulatorScreen> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                'Perhitungan ${user['name']}',
+                                'Perhitungan Fuzzy Tsukamoto',
                                 style: const TextStyle(
                                   fontFamily: 'Rubik',
                                   fontSize: 18,
